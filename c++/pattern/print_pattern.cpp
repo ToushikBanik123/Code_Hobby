@@ -9,5 +9,5 @@ void Draw(int n)
         }
         cout << endl;
     }
-    
+ return 0;   
 }
