@@ -9,3 +9,5 @@ int main()
     s.pop_back();
     cout<<s;
     
+return 0;
+}
