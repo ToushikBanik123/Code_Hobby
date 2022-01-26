@@ -4,9 +4,15 @@ using namespace std;
 
 int main()
 {
-    // s.insert will insert an string on a spacific Index
+    // s.append will insert an string at the end of the string
     string s="program";
     s.append("bye");
     cout<<s;
     return 0;
 }
+
+/*
+Output:
+
+programbye
+*/
